@@ -1,5 +1,6 @@
 
-My areas of focus in research are:
+
+A researcher, scientist, engineer or whatever. This is my personal website. My research focus are:
 
 * AIOps for Cloud Services:
   - Development of AI-powered DevOps solutions for cloud services, with a focus on health monitoring, diagnosis, and prediction.
