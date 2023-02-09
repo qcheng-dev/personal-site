@@ -14,7 +14,7 @@ import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
 import Projects from '../pages/Projects';
 import Resume from '../pages/Resume';
-import Stats from '../pages/Stats';
+import Publications from '../pages/Publications';
 
 const pages = [
   {
@@ -28,14 +28,14 @@ const pages = [
     component: About,
   },
   {
+    route: '/publications',
+    heading: 'Publications',
+    component: Publications,
+  },
+  {
     route: '/projects',
     heading: 'Projects',
     component: Projects,
-  },
-  {
-    route: '/stats',
-    heading: 'Stats',
-    component: Stats,
   },
   {
     route: '/contact',

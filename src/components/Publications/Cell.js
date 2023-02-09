@@ -9,12 +9,6 @@ const Cell = ({ data }) => (
         <h3><a href={data.link}>{data.title}</a></h3>
         <time className="published">{dayjs(data.date).format('MMMM, YYYY')}</time>
       </header>
-      <a href={data.link} className="image">
-        <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
-      </a>
-      <div className="description">
-        <p>{data.desc}</p>
-      </div>
     </article>
   </div>
 );
@@ -22,10 +16,8 @@ const Cell = ({ data }) => (
 Cell.propTypes = {
   data: PropTypes.shape({
     title: PropTypes.string.isRequired,
-    link: PropTypes.string,
-    image: PropTypes.string.isRequired,
-    date: PropTypes.string,
-    desc: PropTypes.string,
+    link: PropTypes.string.isRequired,
+    date: PropTypes.string.isRequired,
   }).isRequired,
 };
 

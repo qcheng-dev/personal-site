@@ -1,47 +1,69 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'LogAI: A Library for Log Analytics and Intelligence',
+    image: '/images/projects/logai_logo.jpg',
+    date: '2023-01',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'LogAI is a one-stop open source library for log analytics and intelligence. '
+      + 'LogAI supports various log analytics and log intelligence tasks such as log summarization, log clustering, log anomaly detection and more. ',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Amazon CloudWatch Anomaly Detection',
+    link: 'https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-anomaly-detection/',
+    image: '/images/projects/aws_cw_ad.png',
+    date: '2019-12',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Amazon CloudWatch launched in early 2009 as part of our desire to (as I said at the time) '
+      + '"make it even easier for you to build sophisticated, scalable, and robust web applications using AWS." ',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    title: 'Advancing Microsoft Azure reliability',
+    link: 'https://azure.microsoft.com/en-us/blog/advancing-microsoft-azure-reliability/',
+    image: '/images/projects/azure_reliability.png',
+    date: '2019-07',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+    title: 'Improving Azure Virtual Machine resiliency with predictive ML and live migration',
+    link: 'https://azure.microsoft.com/en-au/blog/improving-azure-virtual-machine-resiliency-with-predictive-ml-and-live-migration/',
+    image: '/images/projects/azure_predict.png',
+    date: '2018-11',
+  },
+  {
+    title: 'MoveSense App Makes Cellphone an Oxygen Saturation Monitor for Heart and Lung Patients',
+    link: 'https://cs.illinois.edu/news/movesense-app-makes-cellphone-oxygen-saturation-monitor-heart-and-lung-patients',
+    image: '/images/projects/azure_predict.png',
+    date: '2015-07',
+  },
+  {
+    title: 'Gizmos & Gadgets: GaitTrack App on Smartphone Assesses User’s Health, 21st Century Tech Blog',
+    link: 'https://www.21stcentech.com/gizmos-gadgets-gaittrack-app-smartphone-assesses-users-health/',
+    image: '/images/projects/21st_century.png',
+    date: '2014-05',
+  },
+  {
+    title: 'GaitTrack Smartphone App, a Medical Device for Automatic Gait Assessment, FDANews',
+    link: 'https://www.fdanews.com/articles/164575-gaittrack-smartphone-app-a-medical-device-for-automatic-gait-assessment',
+    image: '/images/projects/fdanews.png',
+    date: '2014-05',
+  },
+  {
+    title: 'GaitTrack Smartphone App, a Medical Device for Automatic Gait Assessment, Medgadget',
+    link: 'https://www.medgadget.com/2014/05/gaittrack-smartphone-app-a-medical-device-for-automatic-gait-assessment.html',
+    image: '/images/projects/medgadget.png',
+    date: '2014-05',
+  },
+  {
+    title: 'GaitTrack app makes cellphone a medical monitor for heart and lung patients, Kurzweil',
+    link: 'https://www.kurzweilai.net/gaittrack-app-makes-cellphone-a-medical-monitor-for-heart-and-lung-patients',
+    image: '/images/projects/kurzweil.png',
+    date: '2014-05',
+  },
+  {
+    title: 'GaitTrack app makes cellphone a medical monitor for heart and lung patients, Nature World News',
+    link: 'https://www.natureworldnews.com/articles/6966/20140508/gaittrack-app-turns-cellphone-into-medical-monitor-for-heart-and-lungs.htm',
+    image: '/images/projects/nwn.png',
+    date: '2014-05',
   },
 ];
 
