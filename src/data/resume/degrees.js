@@ -6,7 +6,7 @@ const degrees = [
     year: 2016,
   },
   {
-    school: 'University of Illinois at Urbana-Champaign',
+    school: 'University of Illinois, Urbana-Champaign',
     degree: 'M.S. Bioinformatics: Computer Science',
     link: 'https://illinois.edu/',
     year: 2012,
