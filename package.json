@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qcheng-dev/qcheng.github.io.git"
+    "url": "https://github.com/qcheng-dev/personal-site.git"
   },
   "engines": {
     "node": ">=14.x"
