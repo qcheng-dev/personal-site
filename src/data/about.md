@@ -1,8 +1,4 @@
 
-# Intro
-
-「人法地，地法天，天法道，道法自然」
-
 My research interests are: 
 
 * AIOps for Cloud Services:
