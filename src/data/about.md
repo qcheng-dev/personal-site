@@ -1,16 +1,14 @@
 
-My research interests are: 
+My areas of focus in research are:
 
 * AIOps for Cloud Services:
-  - AI-based DevOps solutions for cloud services, including health monitoring, diagnosis and prediction
-  - Time-series anomalous behavior detection and root-cause analysis.
-  - High dimensional pattern mining for cloud infrastructure
-  - Unsupervised / semi-supervised learning fundamentals and applications.
-  - Natural Language Understanding, SEQ2SQL modeling.
-
-* Medical and Healthcare Application of Mining technique：
-  - Predictive modeling for chronic cardio-pulmonary diseases.
-  - Linear / non-linear classification modeling.
-  - Information retrieval on medical forum and medical record.
-
+  - Development of AI-powered DevOps solutions for cloud services, with a focus on health monitoring, diagnosis, and prediction.
+  - Identification of anomalous behavior and root cause analysis through time-series analysis.
+  - Exploration of high dimensional patterns in cloud infrastructure.
+  - Study of unsupervised and semi-supervised learning techniques and their applications.
+  - Investigation of natural language understanding and SEQ2SQL modeling.
+* Medical and Healthcare Applications of Data Mining:
+  - Development of predictive models for cardio-pulmonary diseases.
+  - Classification modeling using linear and non-linear techniques.
+  - Research on information retrieval from medical forums and medical records.
 

@@ -5,9 +5,11 @@ const positions = [
     link: 'https://www.salesforceairesearch.com/',
     daterange: 'Sep 2021 - Present',
     points: [
-      'Lead applied research in AI for availability and IT operations, including time-series forecasting, anomaly detection, log analysis, safe deployment, etc.',
-      'Lead development of open-source libraries. e.g. LogAI, AI-based log analytics (https://github.com/salesforce/logai).',
-      'Design, develop streaming ML insights products for Salesforce\'s internal monitoring platform, serving millions of logging streams and alerts.',
+      'Conducting cutting-edge research in AI for IT operations and availability, '
+        +'covering topics such as time-series forecasting, anomaly detection, log analysis, and safe deployment.',
+      'Taking the lead in developing open-source libraries, such as LogAI, a log analytics tool powered by AI. (https://github.com/salesforce/logai).',
+      'Designing and building streaming machine learning platforms for Salesforce Monitoring Cloud, ' 
+        +'which processes millions of logging streams and alerts.',
     ],
   },
   {
