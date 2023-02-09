@@ -12,13 +12,13 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/photo.jpeg`} alt="" />
       </Link>
       <header>
-        <h2>Qian Cheng</h2>
+        <h3>Qian Cheng, PH.D.</h3>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I am Qian. A researcher, scientist, engineer or whatever. This is my personal website.
+      <p>A researcher, scientist, engineer or whatever. This is my personal website.
       </p>
       <ul className="actions">
         <li>
@@ -29,7 +29,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Qian Cheng.</p>
+      <p className="copyright">&copy; Qian Cheng, 2023.</p>
     </section>
   </section>
 );

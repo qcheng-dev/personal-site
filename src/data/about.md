@@ -1,7 +1,7 @@
 
 # Intro
 
-Currently work as a Lead Applied Scientist at Salesforce AI Research. My research interests are: 
+* Currently work as a Lead Applied Scientist at Salesforce AI Research. My research interests are: 
   * AIOps for Cloud Services:
   * AI-based DevOps solutions for cloud services, including health monitoring, diagnosis and prediction
   * Time-series anomalous behavior detection and root-cause analysis.
