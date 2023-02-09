@@ -2,6 +2,7 @@
 const data = [
   {
     title: 'LogAI: A Library for Log Analytics and Intelligence',
+    link: 'https://github.com/salesforce/logai',
     image: '/images/projects/logai_logo.jpg',
     date: '2023-01',
     desc:
