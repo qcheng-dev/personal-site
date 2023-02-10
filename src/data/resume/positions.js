@@ -18,9 +18,9 @@ const positions = [
     link: 'https://aws.amazon.com/',
     daterange: 'Jan 2020 - Sep 2021',
     points: [
-      'Lead AI/ML innovations in AWS CloudWatch and Observability. ',
-      'Own CloudWatch anomaly detection service. Drive multi-digits YoY growth.',
-      'Design, develop and operate large-scale machine learning infrastructure.',
+      'Pioneering AI/ML advancements within AWS CloudWatch and Observability as the sole AS in the team.',
+      'Owning CloudWatch anomaly detection service, elevating the service to new heights and driving substantial year-over-year growth..',
+      'Designing, developing, and successfully managing a highly scalable time-series machine learning infrastructure.',
     ],
   },
   {
@@ -29,9 +29,12 @@ const positions = [
     link: 'https://azure.microsoft.com',
     daterange: 'Mar 2017 - Jan 2020',
     points: [
-      'Founding team member of AIOps initiatives. Develop AIOps solutions that adopted by multiple Azure teams to prevent severe issues, improve DevOps efficiency and reduce cost.',
-      'Key contributor of Gandalf, an E2E analytical service for safe deployment in large-scale cloud infrastructure.',
-      'Key contributor of DeepAD, a global anomaly detection and auto-diagnostics system for Azure.',
+      'Proud founding team member of AIOps initiatives, delivering innovative solutions that have been widely adopted across multiple Azure '
+      + 'teams to prevent critical issues, enhance DevOps efficiency, and minimize costs.',
+      'Playing a critical role in the development of Gandalf, a comprehensive end-to-end analytical service for secure deployment '
+      + 'in large-scale cloud infrastructure.',
+      'Making key contribution to DeepAD, a world-class anomaly detection and auto-diagnostics system for Azure control plane, '
+      + 'leveraging cutting-edge AI/ML technologies.',
     ],
   },
   {
@@ -40,7 +43,7 @@ const positions = [
     link: 'https://azure.microsoft.com',
     daterange: 'May 2016 - Aug 2016',
     points: [
-      'Productized machine learning solutions to optimize Azure resource allocation, find bugs and evaluate potential risks',
+      'Productizing machine learning solutions to optimize Azure resource allocation, identify bugs, and assess potential risks, delivering measurable results and improvements.',
     ],
   },
   {
@@ -49,8 +52,8 @@ const positions = [
     link: 'https://www.microsoft.com/en-us/research/',
     daterange: 'May 2015 - Aug 2016',
     points: [
-      'Developed the very first Gaussian mixture model for Azure compute users retention and churn analysis.',
-      'Developed the very first prediction model for Azure VM interrupts and downtime.',
+      'Pioneering the development of the industry\'s first Gaussian mixture model for Azure compute user retention and churn analysis, providing valuable insights and actionable data.',
+      'Creating the initial prediction model for Azure VM interrupts and downtime, paving the way for more accurate and reliable predictions in the future.',
     ],
   },
 ];
