@@ -18,6 +18,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
+      <p>「人法地，地法天，天法道，道法自然」-《道德经》</p>
       <p>A researcher, scientist, engineer or whatever. This is my personal website.
       </p>
       <ul className="actions">
