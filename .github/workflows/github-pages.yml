@@ -1,8 +1,10 @@
 name: GitHub Pages
 
 on:
-  push:
-    branches: [ main ]
+  # push:
+  #   branches: [ main ]
+  release:
+    types: [published]
 jobs:
   deployment:
     runs-on: ubuntu-latest
