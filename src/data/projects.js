@@ -31,9 +31,15 @@ const data = [
     date: '2018-11',
   },
   {
+    title: 'Advancing safe deployment with AIOps—introducing Gandalf',
+    link: 'https://azure.microsoft.com/en-us/blog/advancing-safe-deployment-with-aiops-introducing-gandalf/',
+    image: '/images/projects/gandalf.png',
+    date: '2021-06',
+  },
+  {
     title: 'MoveSense App Makes Cellphone an Oxygen Saturation Monitor for Heart and Lung Patients',
     link: 'https://cs.illinois.edu/news/movesense-app-makes-cellphone-oxygen-saturation-monitor-heart-and-lung-patients',
-    image: '/images/projects/azure_predict.png',
+    image: '/images/projects/illinois.png',
     date: '2015-07',
   },
   {
