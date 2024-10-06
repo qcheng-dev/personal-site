@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Introducing Ignitor: A Revolutionary AI Platform for Annuities',
+    link: 'https://wgntv.com/business/press-releases/ein-presswire/652446236/introducing-ignitor-a-revolutionary-ai-platform-for-annuities/',
+    image: '/images/projects/ignitor-by-ainsurme.png',
+    date: '2023-08',
+    desc:
+      'Today marks a significant milestone in the financial industry as AInsurMe, a leading innovator in artificial intelligence technology '
+      + 'for the financial sector, proudly unveils Ignitor, a groundbreaking AI agent and learning platform specifically designed for annuities. '
+      + 'Ignitor harnesses the power of cutting-edge AI algorithms to revolutionize the way individuals and financial professionals engage with '
+      + 'annuity products, empowering them to make more informed decisions and achieve their long-term financial goals.',
+  },
+  {
     title: 'LogAI: A Library for Log Analytics and Intelligence',
     link: 'https://github.com/salesforce/logai',
     image: '/images/projects/logai_logo.jpg',

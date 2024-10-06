@@ -1,6 +1,11 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'AI for IT Operations (AIOps) on Cloud Platforms: Reviews, Opportunities and Challenges, arXiv',
+    link: 'https://arxiv.org/abs/2304.04661',
+    date: '2023-04-10',
+  },
+  {
     title: 'LogAI: A Library for Log Analytics and Intelligence, arXiv',
     link: 'https://arxiv.org/abs/2301.13415',
     date: '2023-01-31',

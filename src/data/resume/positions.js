@@ -1,9 +1,29 @@
 const positions = [
   {
+    company: 'ByteDance, Enterprise Solution AI',
+    position: 'Senior AI Algorithm Engineer, Tech Lead',
+    link: 'https://www.bytedance.com/',
+    daterange: 'Oct 2023 - Present',
+    points: [
+      'AI for IT Infra, Ops and Services',
+      'Autonomous AI Agents for IT operations and intelligent workspace services.',
+      'LLM empowered network observability.',
+    ],
+  },
+  {
+    company: 'AInsurMe Inc.',
+    position: 'Founder and CEO',
+    link: 'https://www.ainsurme.com/',
+    daterange: 'Apr 2023 - Oct 2023',
+    points: [
+      'Build Ignitor: Your AI-powered guide for retirement planning and annuity education',
+    ],
+  },
+  {
     company: 'Salesforce, AI Research',
     position: 'Lead Applied Scientist',
     link: 'https://www.salesforceairesearch.com/',
-    daterange: 'Sep 2021 - Present',
+    daterange: 'Sep 2021 - Apr 2023',
     points: [
       'Conducting cutting-edge research in AI for IT operations and availability, '
       + 'covering topics such as time-series forecasting, anomaly detection, log analysis, and safe deployment.',
