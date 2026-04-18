@@ -28,12 +28,12 @@ const pages = [
   },
   {
     route: '/publications',
-    heading: 'Publications',
+    heading: 'Publications and Patents',
     component: Publications,
   },
   {
     route: '/projects',
-    heading: 'Projects',
+    heading: 'News and Recognition',
     component: Projects,
   },
   {

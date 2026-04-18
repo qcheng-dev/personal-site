@@ -5,8 +5,8 @@ const positions = [
     link: 'https://www.bytedance.com/',
     daterange: 'Oct 2023 - Present',
     points: [
-      'Tiktok Monetization, Brand Ads. Build AI features for Tiktok Branded Search Hub. Video content understanding, multi-modal AI based marketing/sales tooling for brands ads',
-      'AI for IT Infra, Ops and Services. Autonomous AI Agents for IT operations and intelligent workspace services. LLM empowered network observability.',
+      'TikTok Monetization, Brand Ads: building AI features for TikTok Branded Search Hub, with a focus on video content understanding and multimodal marketing and sales tooling for brand advertisers.',
+      'AI for IT infrastructure, operations, and services: leading autonomous AI agents for IT operations, intelligent workspace services, and LLM-powered network observability.',
     ],
   },
   {
@@ -15,7 +15,7 @@ const positions = [
     link: 'https://www.ainsurme.com/',
     daterange: 'Apr 2023 - Oct 2023',
     points: [
-      'Build Ignitor: Your AI-powered guide for retirement planning and annuity education',
+      'Built Ignitor, an AI-powered guide for retirement planning and annuity education.',
     ],
   },
   {
@@ -24,11 +24,9 @@ const positions = [
     link: 'https://www.salesforceairesearch.com/',
     daterange: 'Sep 2021 - Apr 2023',
     points: [
-      'Conducting cutting-edge research in AI for IT operations and availability, '
-      + 'covering topics such as time-series forecasting, anomaly detection, log analysis, and safe deployment.',
-      'Taking the lead in developing open-source libraries, such as LogAI, a log analytics tool powered by AI. (https://github.com/salesforce/logai).',
-      'Designing and building streaming machine learning platforms for Salesforce Monitoring Cloud, '
-      + 'which processes millions of logging streams and alerts.',
+      'Led applied research in AI for IT operations and service availability, spanning time-series forecasting, anomaly detection, log analysis, and safe deployment.',
+      'Led development of open-source AI libraries, including LogAI, a library for log analytics and intelligence.',
+      'Designed and built streaming machine learning platforms for Salesforce Monitoring Cloud, processing millions of log streams and alerts.',
     ],
   },
   {
@@ -37,9 +35,9 @@ const positions = [
     link: 'https://aws.amazon.com/',
     daterange: 'Jan 2020 - Sep 2021',
     points: [
-      'Pioneering AI/ML advancements within AWS CloudWatch and Observability as the sole AS in the team.',
-      'Owning CloudWatch anomaly detection service, elevating the service to new heights and driving substantial year-over-year growth..',
-      'Designing, developing, and successfully managing a highly scalable time-series machine learning infrastructure.',
+      'Drove AI/ML innovation within AWS CloudWatch and Observability as the sole applied scientist on the team.',
+      'Owned the CloudWatch anomaly detection service and scaled its impact, contributing to strong year-over-year growth.',
+      'Designed, built, and operated highly scalable time-series machine learning infrastructure.',
     ],
   },
   {
@@ -48,12 +46,9 @@ const positions = [
     link: 'https://azure.microsoft.com',
     daterange: 'Mar 2017 - Jan 2020',
     points: [
-      'Proud founding team member of AIOps initiatives, delivering innovative solutions that have been widely adopted across multiple Azure '
-      + 'teams to prevent critical issues, enhance DevOps efficiency, and minimize costs.',
-      'Playing a critical role in the development of Gandalf, a comprehensive end-to-end analytical service for secure deployment '
-      + 'in large-scale cloud infrastructure.',
-      'Making key contribution to DeepAD, a world-class anomaly detection and auto-diagnostics system for Azure control plane, '
-      + 'leveraging cutting-edge AI/ML technologies.',
+      'Served as a founding team member of Azure AIOps initiatives, delivering solutions adopted across multiple Azure teams to prevent critical issues, improve DevOps efficiency, and reduce operational cost.',
+      'Played a key role in developing Gandalf, an end-to-end analytics service for safe deployment in large-scale cloud infrastructure.',
+      'Contributed to DeepAD, an anomaly detection and auto-diagnostics system for the Azure control plane built on advanced AI/ML methods.',
     ],
   },
   {
@@ -62,7 +57,7 @@ const positions = [
     link: 'https://azure.microsoft.com',
     daterange: 'May 2016 - Aug 2016',
     points: [
-      'Productizing machine learning solutions to optimize Azure resource allocation, identify bugs, and assess potential risks, delivering measurable results and improvements.',
+      'Productized machine learning solutions to optimize Azure resource allocation, identify bugs, and assess operational risk.',
     ],
   },
   {
@@ -71,8 +66,8 @@ const positions = [
     link: 'https://www.microsoft.com/en-us/research/',
     daterange: 'May 2015 - Aug 2016',
     points: [
-      'Pioneering the development of the industry\'s first Gaussian mixture model for Azure compute user retention and churn analysis, providing valuable insights and actionable data.',
-      'Creating the initial prediction model for Azure VM interrupts and downtime, paving the way for more accurate and reliable predictions in the future.',
+      'Developed the industry\'s first Gaussian mixture model for Azure compute user retention and churn analysis, generating actionable product insights.',
+      'Built an early prediction model for Azure VM interrupts and downtime to improve reliability forecasting.',
     ],
   },
 ];
