@@ -12,7 +12,7 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/photo.jpeg`} alt="" />
       </Link>
       <header>
-        <h3>Qian Cheng, PH.D.</h3>
+        <h3>Qian (Nick) Cheng, PH.D.</h3>
       </header>
     </section>
 
