@@ -1,13 +1,12 @@
 const positions = [
   {
-    company: 'ByteDance, Enterprise Solution AI',
-    position: 'Senior AI Algorithm Engineer, Tech Lead',
+    company: 'ByteDance Inc.',
+    position: 'AI Algorithm Engineer, Tech Lead',
     link: 'https://www.bytedance.com/',
     daterange: 'Oct 2023 - Present',
     points: [
-      'AI for IT Infra, Ops and Services',
-      'Autonomous AI Agents for IT operations and intelligent workspace services.',
-      'LLM empowered network observability.',
+      'Tiktok Monetization, Brand Ads. Build AI features for Tiktok Branded Search Hub. Video content understanding, multi-modal AI based marketing/sales tooling for brands ads',
+      'AI for IT Infra, Ops and Services. Autonomous AI Agents for IT operations and intelligent workspace services. LLM empowered network observability.',
     ],
   },
   {
