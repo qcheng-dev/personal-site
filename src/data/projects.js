@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Exceptional Capital 2025 Exceptional 100',
+    link: 'https://www.exceptionalcap.com/exceptional100_2025',
+    image: '/images/projects/exceptional_100_2025.png',
+    date: '2025-01-01',
+    displayDate: '2025',
+    desc:
+      'Recognized in Exceptional Capital\'s 2025 Exceptional 100 for work at ByteDance building autonomous agents for IT operations and intelligent workspace services.',
+  },
+  {
     title: 'Introducing Ignitor: A Revolutionary AI Platform for Annuities',
     link: 'https://wgntv.com/business/press-releases/ein-presswire/652446236/introducing-ignitor-a-revolutionary-ai-platform-for-annuities/',
     image: '/images/projects/ignitor-by-ainsurme.png',
