@@ -33,7 +33,7 @@ const pages = [
   },
   {
     route: '/projects',
-    heading: 'News and Recognition',
+    heading: 'News & Recognition',
     component: Projects,
   },
   {

@@ -1,4 +1,5 @@
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
+import { faGoogle } from '@fortawesome/free-brands-svg-icons/faGoogle';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 // import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
@@ -20,6 +21,11 @@ const data = [
     link: 'https://twitter.com/DrQianCheng',
     label: 'Twitter',
     icon: faTwitter,
+  },
+  {
+    link: 'https://scholar.google.com/citations?user=nsgrgMMAAAAJ&hl=en',
+    label: 'Google Scholar',
+    icon: faGoogle,
   },
   // {
   //   link: 'mailto:nicolasqcheng@icloud.com',
